@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xyy91.com/sitemap.xml
