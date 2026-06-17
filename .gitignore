@@ -1,0 +1,6 @@
+.DS_Store
+.vercel/.env.*.local
+.vercel/README.txt
+node_modules/
+*.bak
+__MACOSX/
