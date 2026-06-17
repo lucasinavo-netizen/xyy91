@@ -1,5 +1,35 @@
+# robots.txt for Myanmar Ball
 User-agent: *
 Allow: /
 Disallow: /go/
+
+# AI search bots — explicit allow (for citation)
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+# Training-only crawlers with no citation value — block
+User-agent: CCBot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
 
 Sitemap: https://xyy91.com/sitemap.xml

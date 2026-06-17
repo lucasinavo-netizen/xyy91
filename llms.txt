@@ -1,0 +1,31 @@
+# Myanmar Ball
+
+> Myanmar Ball (xyy91.com) is a Burmese-language football education site covering
+> the English Premier League, UEFA Champions League, team histories, and football
+> rules. All content is written for Myanmar-speaking readers new to European football.
+
+## Articles
+
+- [Premier League Guide (Burmese)](https://xyy91.com/premier-league-myanmar.html): Introduction to the English Premier League — 20 teams, 38-match season, points system, relegation, and top clubs.
+- [Premier League Table Explained](https://xyy91.com/premier-league-table.html): How to read an English football league table.
+- [Premier League Teams Overview](https://xyy91.com/premier-league-teams.html): All 20 Premier League clubs summarized.
+- [Champions League Guide](https://xyy91.com/champions-league-myanmar.html): UEFA Champions League overview for Burmese readers.
+- [Football Basic Rules](https://xyy91.com/football-rules-basic.html): Foundational football rules in Burmese.
+- [Offside Rule Explained](https://xyy91.com/football-offside-rule.html): Burmese-language explainer of the offside rule.
+- [Football Positions](https://xyy91.com/football-positions.html): Player positions (defender, midfielder, forward, keeper) explained in Burmese.
+
+## Team Pages
+
+- [Liverpool FC](https://xyy91.com/teams/liverpool.html): Liverpool history, Anfield, You'll Never Walk Alone — in Burmese.
+- [Manchester United](https://xyy91.com/teams/manchester-united.html): Manchester United history and Old Trafford — in Burmese.
+- [Manchester City](https://xyy91.com/teams/manchester-city.html): Manchester City, Etihad Stadium, and modern dominance — in Burmese.
+- [Arsenal FC](https://xyy91.com/teams/arsenal.html): Arsenal FC history and Emirates Stadium — in Burmese.
+- [Chelsea FC](https://xyy91.com/teams/chelsea.html): Chelsea FC history and Stamford Bridge — in Burmese.
+
+## About
+
+- [Affiliate Disclosure](https://xyy91.com/affiliate-disclosure.html): Transparency about affiliate links and monetization.
+
+## Contact
+
+- Telegram channel: https://t.me/mmgoaltv
