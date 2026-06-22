@@ -1,0 +1,64 @@
+# SEO Profile — single source of truth for this site.
+# Every employee agent MUST read this before acting on the site.
+# Update `current_state` + `last_full_audit` after every audit.
+
+url: xyy91.com
+url_canonical: https://xyy91.com/
+brand_name: Myanmar Ball
+
+# Infrastructure
+framework: static-html
+hosting: vercel
+github_repo: lucasinavo-netizen/xyy91
+
+
+# Analytics
+gsc:
+  property: https://xyy91.com/
+  verified: false
+  permission: siteUnverifiedUser
+  service_account_owner: false
+
+ga4:
+  property_id: "532885637"
+  measurement_id: G-XYRM6Z1ZG4
+  service_account_viewer: true
+
+# Brand / Positioning
+target_market: Myanmar (MM)
+target_language: my-MM
+target_keywords:
+  primary: ["myanmar football", "premier league myanmar", "myanmar ball"]
+  secondary: []
+position: "Myanmar Ball — Myanmar gambling network"
+
+# Affiliate
+affiliate_cloak_path: /go/x
+affiliate_destination: https://www.mm38aa.com/m/home?affiliateCode=lu0001
+
+# Current State (auto-updated by sk-tech / sk-content)
+current_state:
+  body_words: 3500
+  h2_count: many
+  h3_count: many
+  sitemap_urls: 14
+  indexed_pages_90d: 0
+  clicks_90d: 0
+  impressions_90d: 0
+  last_full_audit: 2026-06-17
+  last_content_update: 2026-06-18
+  last_visual_screenshot: /tmp/all-sites-visual/xyy91.com.png
+
+# Known Issues
+known_issues: []
+
+# Confirmed Facts
+confirmed_facts:
+  pbn_inline_strategy: nofollow  # All cross-network <a href> require rel=nofollow noopener noreferrer
+
+# Pending Decisions
+pending_decisions: []
+
+# Site-Specific Notes
+notes:
+  - "2026-06 reclassed CO→MM (Myanmar football content). New site — needs Google indexation time. 5 affiliate touchpoints/page via /go/x. Reset from prior CO sitemaps."
