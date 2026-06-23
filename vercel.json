@@ -1,19 +1,34 @@
 {
-  "redirects": [
+  "rewrites": [
     {
       "source": "/go/x",
-      "destination": "https://www.mm38aa.com/m/home?affiliateCode=lu0001",
-      "permanent": false
+      "destination": "/api/go?to=rr95"
+    },
+    {
+      "source": "/go/x2",
+      "destination": "/api/go?to=mm38"
     }
   ],
   "headers": [
     {
       "source": "/(.*)",
       "headers": [
-        { "key": "X-Content-Type-Options", "value": "nosniff" },
-        { "key": "X-Frame-Options", "value": "SAMEORIGIN" },
-        { "key": "Referrer-Policy", "value": "strict-origin-when-cross-origin" },
-        { "key": "Permissions-Policy", "value": "geolocation=(), microphone=(), camera=()" }
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "SAMEORIGIN"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        },
+        {
+          "key": "Permissions-Policy",
+          "value": "geolocation=(), microphone=(), camera=()"
+        }
       ]
     }
   ]
