@@ -6,30 +6,39 @@ Disallow: /go/
 # AI search bots — explicit allow (for citation)
 User-agent: GPTBot
 Allow: /
+Disallow: /go/
 
 User-agent: OAI-SearchBot
 Allow: /
+Disallow: /go/
 
 User-agent: ChatGPT-User
 Allow: /
+Disallow: /go/
 
 User-agent: ClaudeBot
 Allow: /
+Disallow: /go/
 
 User-agent: Claude-Web
 Allow: /
+Disallow: /go/
 
 User-agent: PerplexityBot
 Allow: /
+Disallow: /go/
 
 User-agent: Google-Extended
 Allow: /
 
 # Training-only crawlers with no citation value — block
+Disallow: /go/
 User-agent: CCBot
 Disallow: /
+Disallow: /go/
 
 User-agent: Bytespider
 Disallow: /
 
+Disallow: /go/
 Sitemap: https://xyy91.com/sitemap.xml
