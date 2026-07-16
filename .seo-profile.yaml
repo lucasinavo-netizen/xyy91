@@ -15,9 +15,10 @@ github_repo: lucasinavo-netizen/xyy91
 # Analytics
 gsc:
   property: https://xyy91.com/
-  verified: false
-  permission: siteUnverifiedUser
-  service_account_owner: false
+  verified: true
+  permission: siteOwner
+  service_account_owner: true
+  domain_property_permission: denied
 
 ga4:
   property_id: "532885637"
@@ -34,23 +35,31 @@ position: "Myanmar Ball — Myanmar gambling network"
 
 # Affiliate
 affiliate_cloak_path: /go/x
-affiliate_destination: https://www.mm38aa.com/m/home?affiliateCode=lu0001
+affiliate_destination: https://www.rr95k.com/?ch=0cf28df51e
 
 # Current State (auto-updated by sk-tech / sk-content)
 current_state:
-  body_words: 3500
-  h2_count: many
-  h3_count: many
+  body_words: 483
+  h2_count: unknown
+  h3_count: unknown
   sitemap_urls: 14
-  indexed_pages_90d: 0
+  indexed_pages_90d: 1
   clicks_90d: 0
   impressions_90d: 0
-  last_full_audit: 2026-06-17
+  clicks_450d: 1
+  impressions_450d: 5
+  ga4_organic_sessions_450d: 0
+  url_inspection_indexed: 1
+  url_inspection_not_indexed: 13
+  last_full_audit: 2026-06-26
   last_content_update: 2026-06-18
   last_visual_screenshot: /tmp/all-sites-visual/xyy91.com.png
 
 # Known Issues
-known_issues: []
+known_issues:
+  - "Only homepage is indexed; 13/14 sitemap URLs are discovered/crawled/unknown but not indexed."
+  - "Most pages are thin: sampled local pages are about 182-552 words."
+  - "GSC/GA4 demand is near zero: 1 click / 5 impressions across 450 days and 0 GA4 Organic Search sessions."
 
 # Confirmed Facts
 confirmed_facts:
@@ -58,6 +67,7 @@ confirmed_facts:
 
 # Pending Decisions
 pending_decisions: []
+recommended_status: parked_low_priority
 
 # Site-Specific Notes
 notes:
